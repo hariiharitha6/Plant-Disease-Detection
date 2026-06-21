@@ -108,21 +108,19 @@ The model is built using a Convolutional Neural Network (CNN) consisting of:
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="712" height="603" alt="Screenshot 2026-06-21 015620" src="https://github.com/user-attachments/assets/41d7228f-9a1a-4f8f-9645-c2be380c1b04" />
+
 
 ### Disease Prediction
 
-(Add Screenshot Here)
+<img width="1192" height="493" alt="Screenshot 2026-06-21 025901" src="https://github.com/user-attachments/assets/baa39774-30b7-4a0f-8ecd-5b70eaf9cc4a" />
+
 
 ### Probability Distribution Chart
 
-(Add Screenshot Here)
+<img width="298" height="561" alt="Screenshot 2026-06-21 025002" src="https://github.com/user-attachments/assets/e434ff41-ae56-46a5-9597-7145a64713b1" />
 
-### Disease Information Section
 
-(Add Screenshot Here)
-
----
 
 ## 🚀 How to Run
 
